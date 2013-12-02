@@ -1,2 +1,4 @@
 bogdan
 ======
+
+Inicijalna aplikacija
